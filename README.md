@@ -5,7 +5,7 @@ Patches for OpenCode Mobile (`dev.opencode.mobile.morphe`).
 ## How to use
 
 Add this source to Morphe Manager:
-https://morphe.software/add-source?github.com/blackout/morphe-patches
+https://morphe.software/add-source?github.com/UnkyBadTouch/morphe-patches
 
 ## Patches
 

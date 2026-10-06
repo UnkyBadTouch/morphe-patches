@@ -4,7 +4,7 @@ patches {
     about {
         name = "Blackout Patches"
         description = "Quality of life patches for OpenCode Mobile."
-        source = "git@github.com:blackout/morphe-patches.git"
+        source = "git@github.com:UnkyBadTouch/morphe-patches.git"
         author = "blackout"
         contact = "na"
         website = "na"
